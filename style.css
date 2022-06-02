@@ -1,0 +1,38 @@
+*{margin:0;padding:0;}
+#wrapper{
+  width:960px;
+  margin: 50px auto;
+}
+.box img{
+  width: 300px;
+  height: 189px;
+}
+.box{
+  float: left;
+  width: 300px;
+  margin-right: 30px;
+  font-family: arial;
+  text-align: center;
+}
+.nomarg{
+  margin-right: 0px;
+}
+.box p{
+  text-align: justify;
+}
+.box a{
+  background: orange;
+  color:white;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 5px;
+  margin:3px 0;
+}
+.box h1{
+  color:orange;
+}
+.box a:hover{
+  background: black;
+  color:pink;
+}
